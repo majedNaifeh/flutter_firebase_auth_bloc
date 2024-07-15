@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "536175449662",
+    "project_id": "majed-firebase-auth-bloc",
+    "storage_bucket": "majed-firebase-auth-bloc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536175449662:android:f4e37156a52408bcb4236f",
+        "android_client_info": {
+          "package_name": "com.firebase.auth.bloc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuiQ7PFFv6rykZmAcEHM_xZmBqNrhvwU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
